@@ -1,6 +1,13 @@
-### Hi there 👋
-
+<h1 align="center">
 Hello, ladies & germs! 👋  I'm Jack!
+</h1>
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50" />
+</p>
 
 JavaScript Logo React Logo Rails Logo Python Logo Django Logo Selenium Logo Redux Logo Material-UI Logo Firebase Logo
 
