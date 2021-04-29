@@ -4,6 +4,8 @@ Hello, party people! 👋  I'm Jack!
 
 ### A description about me!
 
+***
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby Logo" width="50" height="50" />
