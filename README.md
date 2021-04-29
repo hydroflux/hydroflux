@@ -10,7 +10,6 @@ Hello, party people! 👋  I'm Jack!
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50" />
 </p>
 
@@ -27,9 +26,13 @@ Hello, party people! 👋  I'm Jack!
 
 ***
 
-📫 How to reach me:
-
-Email Icon Twitter Logo Medium Logo Instagram Logo
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jackhubert/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height="30" /></a>
+  <a href="mailto:hydrofluxllc@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Email Icon" width="30" height="30" /></a>
+  <a href="https://twitter.com/j_hubert/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" /></a>
+  <a href="https://www.instagram.com/jack_hubert/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="30" height="30" /></a>
+</p>
 
 <!--
 **hydroflux/hydroflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
