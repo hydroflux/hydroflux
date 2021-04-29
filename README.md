@@ -2,6 +2,8 @@
 Hello, ladies & germs! 👋  I'm Jack!
 </h1>
 
+### A description about me!
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby Logo" width="50" height="50" />
@@ -9,7 +11,18 @@ Hello, ladies & germs! 👋  I'm Jack!
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50" />
 </p>
 
-JavaScript Logo React Logo Rails Logo Python Logo Django Logo Selenium Logo Redux Logo Material-UI Logo Firebase Logo
+###
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" height="50" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="Material-UI Logo" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase Logo" width="50" height="50" />
+</p>
+
+***
 
 📫 How to reach me:
 
