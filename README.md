@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello, ladies & germs! 👋  I'm Jack!
+
+JavaScript Logo React Logo Rails Logo Python Logo Django Logo Selenium Logo Redux Logo Material-UI Logo Firebase Logo
+
+📫 How to reach me:
+
+Email Icon Twitter Logo Medium Logo Instagram Logo
+
 <!--
 **hydroflux/hydroflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
