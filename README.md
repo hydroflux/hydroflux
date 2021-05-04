@@ -2,7 +2,7 @@
 Hello, party people! 👋  I'm Jack!
 </h1>
 
-### A description about me!
+### I'm a full-stack developer originally from Indiana who has made my way out to Denver, Colorado. Working in the oil & gas industry for the first part of my career, I recently turned my part-time interest in programming into a full-time endeavor.
 
 ***
 
