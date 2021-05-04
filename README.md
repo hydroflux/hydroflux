@@ -2,7 +2,7 @@
 Hello, party people! 👋  I'm Jack!
 </h1>
 
-### I'm a full-stack developer originally from Indiana who has made my way out to Denver, Colorado. Working in the oil & gas industry for the first part of my career, I recently turned my part-time interest in programming into a full-time endeavor.
+### I'm a full-stack developer originally from Indiana who has made my way out to Denver, Colorado. Working in the oil & gas industry for the first part of my career, I recently turned my part-time interest in programming into a full-time endeavor. After completing a certificate in software engineering, I am working to build areas of interest into a full scale portfolio. Ruby on Rails & JavaScript React.js are the shiny toys I am learning with at the moment, but having spent spent 4 years teaching myself Python (specifically in order to use Selenium), I am eagerly working Django into my portfolio. When I'm not programming or tinkering with other projects, I love going to concerts & playing tabletop games with my friends!
 
 ***
 
