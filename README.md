@@ -6,8 +6,9 @@ Hello, party people! 👋  I'm Jack!
 
 ### Ruby on Rails & JavaScript React.js are at the center of my skillset at the moment, with my prior experience involving 4 years teaching myself Python and a variety of smaller experiences working with other languages. I am eagerly working Django into my portfolio, and do my best work when using Selenium driven by Python.
 
-When I'm not programming or tinkering with other projects, I love going to concerts, traveling, & playing tabletop games with my friends!
+### When I'm not programming or tinkering with other projects, I love going to concerts, traveling, & playing tabletop games with my friends!
 
+### I am always on the lookout for new projects, please let me know if you'd like to collaborate on something together!
 ***
 
 <p align="center">
