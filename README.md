@@ -4,7 +4,9 @@ Hello, party people! 👋  I'm Jack!
 
 ### I'm a full-stack developer originally from Indiana who has made my way out to Denver, Colorado. Working in the oil & gas industry for the first part of my career, I recently turned my part-time interest in programming into a full-time endeavor. After completing a certificate in software engineering, I am working to build areas of interest into a full scale portfolio.
 
-### Ruby on Rails & JavaScript React.js are at the center of my skillset at the moment, with my prior experience involving 4 years teaching myself Python and a variety of smaller experiences working with other languages. I am eagerly working Django into my portfolio, and do my best work when using Selenium driven by Python. When I'm not programming or tinkering with other projects, I love going to concerts & playing tabletop games with my friends!
+### Ruby on Rails & JavaScript React.js are at the center of my skillset at the moment, with my prior experience involving 4 years teaching myself Python and a variety of smaller experiences working with other languages. I am eagerly working Django into my portfolio, and do my best work when using Selenium driven by Python.
+
+When I'm not programming or tinkering with other projects, I love going to concerts, traveling, & playing tabletop games with my friends!
 
 ***
 
